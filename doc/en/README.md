@@ -1,6 +1,6 @@
 # HeatZone Card's
 
-[![EN](https://img.shields.io/badge/EN-English-blue)](/doc/en/README.md) [![DE](https://img.shields.io/badge/DE-Deutsch-red)](/doc/de/README.md)
+[![EN](https://img.shields.io/badge/EN-English-blue)](https://github.com/fpo/heatzone-card/blob/main/doc/en/README.md) [![DE](https://img.shields.io/badge/DE-Deutsch-red)](https://github.com/fpo/heatzone-card/blob/main/doc/de/README.md)
 
 Custom Lovelace maps for controlling/displaying heating zones in Home Assistant.
 Only functional in conjunction with the HeatZone integration.
@@ -9,7 +9,7 @@ Only functional in conjunction with the HeatZone integration.
 
 ![Warning](/assets/warning-red-warning-en.svg)
 
-This is necessary because the heatzone card opens the heatzone profile card as a popup window.
+This is necessary, because the heatzone card opens the heatzone profile card as a popup window.
 The dual installation may seem inconvenient at first, but it has the advantage that
 the cards can also be updated separately.
 
