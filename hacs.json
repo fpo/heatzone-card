@@ -1,0 +1,8 @@
+{
+  "name": "HeatZone Card",
+  "render_readme": true,
+	"content_in_root": false,
+	"domains": ["frontend"],
+  "homeassistant": "2025.11.0",
+  "filename": "heatzone-card.js"
+}
