@@ -1,6 +1,6 @@
 # HeatZone Card's
 
-[![DE](https://img.shields.io/badge/DE-Deutsch-red)](/doc/de/README.md) [![EN](https://img.shields.io/badge/EN-English-blue)](/doc/en/README.md)
+[![EN](https://img.shields.io/badge/EN-English-blue)](/doc/en/README.md) [![DE](https://img.shields.io/badge/DE-Deutsch-red)](/doc/de/README.md)
 
 Custom Lovelace-Karten für die Steuerung / Darstellung von Heizungszonen in Home Assistant.
 Nur in Verbindung mit der HeatZone Integration sinnvoll funktionsfähig.
