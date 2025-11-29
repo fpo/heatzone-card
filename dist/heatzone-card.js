@@ -979,7 +979,7 @@ window.customCards.push({
 });
 
 console.info(
-  '%c HEATZONE-CARD %c Version 0.9.3 HA-Form Realtime ',
+  '%c HEATZONE-CARD %c Version 0.9.5 HA-Form Realtime ',
   'color: white; background: #ff8c00; font-weight: 700;',
   'color: #ff8c00; background: white; font-weight: 700;'
 );
